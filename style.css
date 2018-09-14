@@ -1,0 +1,75 @@
+#ri{
+	float: right;
+	margin-right: 110px;
+}
+
+#head {
+	background-color: brown;
+	margin: 0px;
+	padding: 1px;
+}
+#head1 {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	margin-right: 1102px;
+	margin-top: -60px;
+	color: white;
+}
+#body {
+	background-color: black;
+	margin: 0px;
+	padding: 0px;
+	margin-top: -20px; 
+}
+#a {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	margin-right: 1200px;
+	margin-top: -40px;
+}
+#n {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	margin-right: 1130px;
+	margin-top: -40px;
+}
+#s {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	margin-right: 1030px;
+	margin-top: -40px;
+}
+#sm {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	margin-right: 920px;
+	margin-top: -40px;
+}
+#c {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	margin-right: 830px;
+	margin-top: -40px;
+}
+#menu{
+	background-color: yellow;
+	margin: 0px;
+	padding: 0px;
+	width: 200px;
+	height: 495px;
+	margin-top: -20px;
+}
+#product{
+	background-color: blue;
+	margin: 200px;
+	padding: 0px;
+	margin-top: -518px;
+	width: 1133px;
+	height: 495px;
+}
